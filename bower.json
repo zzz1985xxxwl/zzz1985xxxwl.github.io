@@ -1,0 +1,15 @@
+{
+  "name": "zzz1985xxxwl",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/zzz1985xxxwl/zzz1985xxxwl.github.io",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
